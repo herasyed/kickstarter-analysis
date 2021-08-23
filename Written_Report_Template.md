@@ -10,19 +10,19 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-###image
+![Theater Outcomes by Launch Date](https://user-images.githubusercontent.com/88937178/130381888-ee02a2e1-2c1e-4ff8-8cac-0c7f1e57db0a.png)
 
 #### This chart shows the success of theater fundraising campaigns based on their launch date. The x-axis shows the months out of the year and the y-axis shows the number of campaigns that were launches in the given month. The campaigns are divided based on their outcome status - successful, failed or cancelled - and their growth can be observed by looked at their corrosponding line on the chart. 
 
 ### Analysis of Outcomes Based on Goals
 
-###image
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88937178/130381913-f746310a-f047-4f02-a25b-2cc014a0951a.png)
 
 #### This graph shows the success of theater fundraising campaigns, specifically for plays, based on their fundraising goal. Depending on the monetary range, represented by the x-axis, your campaign had a certain likelihood of being a successful, failed or canceled campaign - this percentage is represented on the y-axis.
 
 ### Challenges and Difficulties Encountered
 
-#### Some potential challenges or places for error could be typos when inputting the formulas, not knowing how to remove certain pieces of data from a data set that you don't want to represent in a chart.
+#### Some potential challenges or places for error could be typos when inputting the formulas and not knowing how to remove certain pieces of data from a data set that you don't want to represent in a chart.
 
 ## Results
 
